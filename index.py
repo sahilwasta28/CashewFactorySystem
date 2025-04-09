@@ -564,6 +564,8 @@ def open_win():
     application = Tk()
     # application.wm_iconbitmap('favicon.ico')
 
+    BackupSystem.init_system()
+
     application.title("Sawant Cashew Industries - Management System")
     application.geometry("1200x700")
     application.configure(background="#FFF8DC")  # Cornsilk - warm, professional background

@@ -1,23 +1,23 @@
-# firm-management-desktop-app
-Desktop application made by using python tkinter to organize and maintain the daily activity of drinking water bottle supplier firm
+# cashew-factory-coordination-system-app
+Desktop application made by using python tkinter to organize and maintain the daily activity of small scale cashew factories. 
 
 # Activities includes
-1) sells details management
+1) sales details management
 2) Expense details management
-3) Stock and production management
+3) Stock and production management through raw materials
 4) Labors attendance and salary payout management
 5) Client information
 6) Monthly report generation
 
 # Functionalities
 1) Registration and Login 
-2) Can see last day expenses, sells and pending payments
-3) Adding Sells
+2) Can see last day expenses, sales and pending payments
+3) Adding Sales
 4) Managing Stocks by adding raw material and production details
-5) Mark Attendance and salary payment details by adding Labor details 
+5) Mark Attendance and overtime hours and doing salary payment to the labours
 6) Can add clients 
-7) Can see monthly report card 
-8) Log file for database activities
+7) Can see monthly report card of each type of sales , raw material , production , and stocks  
+8) Backup data for each of tarnsaction through MySQL 
 
 # Library Used
 tkinter
